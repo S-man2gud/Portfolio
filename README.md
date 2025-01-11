@@ -6,17 +6,17 @@ Hello! I'm Seidu Suleiman a data analyst with strong foundation in Python, data 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*I specialize in leveraging data to uncover actionable insights and drive decision-making.*
+- I specialize in leveraging data to uncover actionable insights and drive decision-making.
 
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+- I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
-Proficient in python, with hands-on experience using libraries such as pandas, numpy and matplotlib for data analysis and visualization. 
+- Proficient in python, with hands-on experience using libraries such as pandas, numpy and matplotlib for data analysis and visualization. 
 
-Skilled in utilizing tools like Excel and Power BI to create impactful dashboards and reports.
+- Skilled in utilizing tools like Excel and Power BI to create impactful dashboards and reports.
 
-Currently exploring advanced techniques in machine learning and predictive modeling to enhance my analytical toolkit.
+- Currently exploring advanced techniques in machine learning and predictive modeling to enhance my analytical toolkit.
 
-Pasionate about solving complex problems, improving processes and contributing to data-driven strategies in diverse industries.
+- Pasionate about solving complex problems, improving processes and contributing to data-driven strategies in diverse industries.
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
@@ -50,12 +50,12 @@ Unfortunately, there werenâ€™t enough lifeboats for everyone onboard, resul
 
 ## CONTACT DETAILS
 
-*Letâ€™s connect and see how we can make a difference together!*
+* Let's connect and see how we can make a difference together! *
 <table>
   <tbody>
     <tr>
       <td>ðŸ“§</td>
-      <td><a href="mailto:seidusuleiman0@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:seidusuleiman0@gmail.com"></a></td>
     </tr>
     <tr>
       <td>ðŸ“ž</td>
