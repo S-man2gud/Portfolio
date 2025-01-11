@@ -62,15 +62,15 @@ Unfortunately, there werenâ€™t enough lifeboats for everyone onboard, resul
       <td>(234) 813-049-2887</td>
     </tr>
     <tr>
-      <td> 🏠</td>
+      <td>🏠</td>
       <td>Abuja, Nigeria</td>
     </tr>
     <tr>
-      <td>🌐¸</td>
+      <td>🌐</td>
       <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
     </tr>
     <tr>
-      <td>🔗</td>
+      <td>🔗</td>
       <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
