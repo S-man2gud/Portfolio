@@ -54,27 +54,27 @@ Unfortunately, there werenâ€™t enough lifeboats for everyone onboard, resul
 <table>
   <tbody>
     <tr>
-      <td>ðŸ“§</td>
+      <td>✉️</td>
       <td><a href="mailto:seidusuleiman0@gmail.com"></a></td>
     </tr>
     <tr>
-      <td>ðŸ“ž</td>
+      <td>☎️</td>
       <td>(234) 813-049-2887</td>
     </tr>
     <tr>
-      <td>ðŸ“</td>
+      <td> 🏠</td>
       <td>Abuja, Nigeria</td>
     </tr>
     <tr>
-      <td>â¬‡ï¸</td>
+      <td>🌐¸</td>
       <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
     </tr>
     <tr>
-      <td>ðŸŒ</td>
+      <td>🔗</td>
       <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
-      <td>ðŸ“º</td>
+      <td>💻</td>
       <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
     </tr>
   </tbody>
