@@ -54,8 +54,8 @@ Unfortunately, there werenâ€™t enough lifeboats for everyone onboard, resul
 <table>
   <tbody>
     <tr>
-      <td>✉️</td>seidusuleiman0@gmail.com
-      <td><a href="mailto:"></a></td>
+      <td>✉️</td>
+      <td><a href="mailto:seidusuleiman0@gmail.com">seidusuleiman0@gmail.com></a></td>
     </tr>
     <tr>
       <td>☎️</td>
