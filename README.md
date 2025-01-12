@@ -23,27 +23,24 @@ Hello! I'm Seidu Suleiman a data analyst with strong foundation in Python, data 
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
+**Exploratory Data Analysis (EDA) on Retail Sales Data (Mc Donald's Menu).**
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+This project performs an in-depth exploratory data analysis (EDA) on a retail sales dataset to uncover insights, trends, and patterns. The findings aim to help retail businesses make data-driven decisions to improve customer satisfaction and optimize their product offerings.
 
+[Read More](https://github.com/S-man2gud/OIBSIP/blob/main/Task%201%20-%20EDA%20on%20Retail%20Dataset/EDA%20on%20Mc%20Donalds%20Menu%20Project/README.md)
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+**Customer Segmentation Analysis Project.**
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+This project focuses on identifying distinct customer segments using unsupervised machine learning techniques. The analysis enables businesses to better understand their customers' behaviors, tailor marketing strategies, and optimize customer retention.
 
-![image](2 anietie etuk data analytics sales project.jpg)
+[Read More](https://github.com/S-man2gud/OIBSIP/blob/main/Task%202%20-%20Customer%20Segmentation/README.md)
 
-On April 15, 1912, during her maiden voyage, the widely considered â€œunsinkableâ€ RMS Titanic sank after colliding with an iceberg. 
+**Data Cleaning: NYC Airbnb Dataset 2019 Project.**
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+This project focuses on cleaning and preparing the NYC Airbnb 2019 dataset for analysis. The dataset contains listings with features such as price, room_type, neighbourhood, and reviews. Data cleaning is an essential step to ensure accuracy, reliability, and meaningful insights.
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+[Read More](https://github.com/S-man2gud/OIBSIP/blob/main/Task%203%20-%20Data%20Cleaning/README.md)
 
-![image](3 anietie etuk data analytics agro project.jpg)
-
-Unfortunately, there werenâ€™t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
@@ -66,7 +63,7 @@ Unfortunately, there werenâ€™t enough lifeboats for everyone onboard, resul
       <td>Abuja, Nigeria</td>
     </tr>
     <tr>
-      <td>🌐</td>
+      <td>🧾</td>
       <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
     </tr>
     <tr>
