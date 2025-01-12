@@ -42,8 +42,6 @@ This project focuses on cleaning and preparing the NYC Airbnb 2019 dataset for a
 [Read More](https://github.com/S-man2gud/OIBSIP/blob/main/Task%203%20-%20Data%20Cleaning/README.md)
 
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
-
 
 ## CONTACT DETAILS
 
@@ -67,8 +65,8 @@ This project focuses on cleaning and preparing the NYC Airbnb 2019 dataset for a
       <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
     </tr>
     <tr>
-      <td>🔗</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td>icons8-linkedin-48.png</td>
+      <td><a href="https://linkedin.com/in/suleiman-seidu-8b2135343">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
       <td>💻</td>
