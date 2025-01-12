@@ -45,7 +45,7 @@ This project focuses on cleaning and preparing the NYC Airbnb 2019 dataset for a
 
 ## CONTACT DETAILS
 
-* Let's connect and see how we can make a difference together! *
+* *Let's connect and see how we can make a difference together!*
 <table>
   <tbody>
     <tr>
