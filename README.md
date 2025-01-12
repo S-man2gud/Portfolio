@@ -65,7 +65,7 @@ This project focuses on cleaning and preparing the NYC Airbnb 2019 dataset for a
       <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
     </tr>
     <tr>
-      <td>icons8-linkedin-48.png</td>
+      <td>🔗</td>
       <td><a href="https://linkedin.com/in/suleiman-seidu-8b2135343">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
