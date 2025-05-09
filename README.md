@@ -62,7 +62,7 @@ This project focuses on cleaning and preparing the NYC Airbnb 2019 dataset for a
     </tr>
     <tr>
       <td>🧾</td>
-      <td><a href="SEIDU SULEIMAN CODING RESUME.pdf">Download my CV</a></td>
+      <td><a href="https://github.com/S-man2gud/Portfolio/blob/main/SEIDU%20%20SULEIMAN%20CODING%20RESUME.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🔗</td>
